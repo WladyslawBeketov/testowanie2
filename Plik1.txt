@@ -1,0 +1,4 @@
+To jest mój pierwszy plik do GITa
+Test
+
+O 21:45 wprowadzone zmiany w pliku
